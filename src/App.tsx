@@ -7,7 +7,7 @@ function App() {
 		<div className="flex justify-center items-center h-screen">
 			<div className="max-w-[350px] h-fit p-5 bg-white rounded-md shadow-md">
 				<h1 className="pb-5 text-left text-xl font-bold">
-					Vite + React + TS + shadecn/ui
+					Vite + React + TS + shadecn/ui2
 				</h1>
 				<p className="pb-5 text-left">
 					Lorem ipsum dolor sit amet. Qui quod dolorum et impedit dolorem quo
